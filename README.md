@@ -1,0 +1,2 @@
+# .github
+GuardUtils Manifesto
